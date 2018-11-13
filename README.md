@@ -9,7 +9,9 @@
 [build]: https://circleci.com/gh/metabolize/char-width-table-builder/tree/master
 [prettier]: https://prettier.io/
 
-Build character-width tables using Puppeteer.
+Build character-width tables using [Puppeteer][].
+
+[puppeteer]: https://pptr.dev/
 
 ## Features
 
